@@ -3,7 +3,7 @@ layout: post
 title: "Apa Yang Dimaksud Dengan Teks"
 ---
 
-## Penjelasan
+### Penjelasan
 
 #### A. Apa yang dimaksud dengan TEXT.
 
