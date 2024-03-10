@@ -3,8 +3,6 @@ layout: post
 title: "Apa Yang Dimaksud Dengan Teks"
 ---
 
-### Penjelasan
-
 #### A. Apa yang dimaksud dengan TEXT.
 
 TEXT adalah Tulisan atau karakter yang digunakan untuk pertukaran Informasi Pemahaman tentang Teks
