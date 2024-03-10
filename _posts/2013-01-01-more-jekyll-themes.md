@@ -1,22 +1,35 @@
 ---
 layout: post
-title: "More Jekyll Themes!"
+title: "Apa Yang Dimaksud Dengan Teks"
 ---
 
-#### Lagrange
+## Penjelasan
 
-Lagrange is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog.
+#### A. Apa yang dimaksud dengan TEXT.
 
-Feel free to check out <a href="https://lenpaul.github.io/Lagrange/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Lagrange/journal/getting-started.html">how to use install</a> and use the theme.
+TEXT adalah Tulisan atau karakter yang digunakan untuk pertukaran Informasi Pemahaman tentang Teks
 
-#### Millennial
+#### B. Unsur TEXT
 
-Millennial is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for a publication or blog.
+1. KODE ASCII
+-	**Berikut Contoh KODE ASCII**
+![OIP](https://github.com/galung1308/GLG-Solution/assets/145516268/2f6908f6-3f3f-474d-898b-da25aeef5b51)
 
-Feel free to check out <a href="https://lenpaul.github.io/Millennial/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Millennial/documentation/getting-started.html">how to use install</a> and use the theme.
+2. FONT/JENIS TEXT
+-	**Berikut Contoh FONT/JENIS TEXT**
+![2](https://github.com/galung1308/GLG-Solution/assets/145516268/39059176-a36c-4321-bcaa-3b659d1c7f66)
 
-#### Jekyll Starter Kit
+3. WARNA
+-	**Berikut Contoh KODE WARNA**
+![Warna Tertier Kombinasi warna](https://github.com/galung1308/GLG-Solution/assets/145516268/f234bf7b-6a47-4076-8574-782e2179fc91)
 
-The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.
+4. SIZE/UKURAN
+-	**Berikut Contoh SIZE/UKURAN**
+![A93cx](https://github.com/galung1308/GLG-Solution/assets/145516268/34289464-4467-4b04-88e8-e450d186af83)
 
-Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme.
+5. TYPE TEXT
+-	**Berikut Contoh TYPE TEXT**
+IMAGE
+![5bcb99f05d6c60011fa0f41a9eec40bb](https://github.com/galung1308/GLG-Solution/assets/145516268/1133efdc-8165-4058-8298-d37d66ab2885)
+
+
